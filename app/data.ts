@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       'Landing page for LUMI your canned sparkling wine, light, refreshing, and practical for every moment.',
     link: 'https://www.lumidrink.com.br/',
     video:
-      'https://res.cloudinary.com/dptcix8i9/video/upload/v1740436463/Screenity_video_-_Feb_24_2025_ljw6oc.mkv',
+      'https://res.cloudinary.com/dptcix8i9/video/upload/q_auto,f_auto,w_1280,h_720/v1740436463/Screenity_video_-_Feb_24_2025_ljw6oc.mkv',
     id: 'project1',
   },
   {
@@ -42,15 +42,15 @@ export const PROJECTS: Project[] = [
     description: 'Landing page for Serlares which provides healthy and customized corporate food services, promoting well-being and quality of life in the workplace.',
     link: 'https://www.serlares.com.br/',
     video:
-      'https://res.cloudinary.com/dptcix8i9/video/upload/v1740436608/Screenity_video_-_Feb_24_2025_1_mmlfgl.mkv',
+      'https://res.cloudinary.com/dptcix8i9/video/upload/q_auto,f_auto,w_1280,h_720/v1740436608/Screenity_video_-_Feb_24_2025_1_mmlfgl.mkv',
     id: 'project2',
   },
   {
     name: 'Vortexz',
-    description: 'Landing page for Vortexz which Creates exceptional digital products, transforming ideas into impactful user experiences across all platforms.',
+    description: 'Landing page for Vortexz which creates exceptional digital products, transforming ideas into impactful user experiences across all platforms.',
     link: 'https://vortexz.com.br/',
     video:
-      'https://res.cloudinary.com/dptcix8i9/video/upload/v1740436731/Screenity_video_-_Feb_24_2025_2_rtv3jz.mkv',
+      'https://res.cloudinary.com/dptcix8i9/video/upload/q_auto,f_auto,w_1280,h_720/v1740436731/Screenity_video_-_Feb_24_2025_2_rtv3jz.mkv',
     id: 'project3',
   },
 ]
