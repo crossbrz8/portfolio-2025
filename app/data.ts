@@ -61,7 +61,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Front-end Developer',
     start: '2025',
     end: 'Present',
-    link: '',
+    link: 'https://www.viniciusgm.dev/',
     id: 'work1',
   },
   {
