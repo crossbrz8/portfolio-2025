@@ -53,6 +53,14 @@ export const PROJECTS: Project[] = [
       'https://res.cloudinary.com/dptcix8i9/video/upload/q_auto,f_auto,w_1280,h_720/v1740436731/Screenity_video_-_Feb_24_2025_2_rtv3jz.mkv',
     id: 'project3',
   },
+  {
+    name: 'Felipe Medeiros Portfolio',
+    description: 'In development',
+    link: 'https://medeiros-five.vercel.app/',
+    video:
+      'https://res.cloudinary.com/dptcix8i9/video/upload/q_auto,f_auto,w_1280,h_720/v1740443514/Screenity_video_-_Feb_24_2025_3_mcblrw.mkv',
+    id: 'project4',
+  },
 ]
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
