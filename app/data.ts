@@ -38,12 +38,29 @@ export const PROJECTS: Project[] = [
     id: 'project1',
   },
   {
+    name: 'Nestha',
+    description:
+      'Landing page for Nestha, A studio that is focused on digital services such as design and development.',
+    link: 'https://nesther.vercel.app/',
+    video:
+      'https://res.cloudinary.com/dptcix8i9/video/upload/v1751682240/Nestha/nestha_rwgl86.mp4',
+    id: 'project2',
+  },
+  {
+    name: 'Web Chat for the vault',
+    description: 'Web Chat for the vault, a private network for sales business.',
+    link: 'https://beta.joinvault.io/',
+    video:
+      'https://res.cloudinary.com/dptcix8i9/video/upload/v1751681706/Vault/vault.mp4',
+    id: 'project3',
+  },
+  {
     name: 'Serlares',
     description: 'Landing page for Serlares which provides healthy and customized corporate food services, promoting well-being and quality of life in the workplace.',
     link: 'https://www.serlares.com.br/',
     video:
       'https://res.cloudinary.com/dptcix8i9/video/upload/q_auto,f_auto,w_1280,h_720/v1740436608/Screenity_video_-_Feb_24_2025_1_mmlfgl.mkv',
-    id: 'project2',
+    id: 'project4',
   },
   {
     name: 'Vortexz',
@@ -51,7 +68,7 @@ export const PROJECTS: Project[] = [
     link: 'https://vortexz.com.br/',
     video:
       'https://res.cloudinary.com/dptcix8i9/video/upload/q_auto,f_auto,w_1280,h_720/v1740436731/Screenity_video_-_Feb_24_2025_2_rtv3jz.mkv',
-    id: 'project3',
+    id: 'project5',
   },
   {
     name: 'Felipe Medeiros Portfolio',
@@ -59,7 +76,7 @@ export const PROJECTS: Project[] = [
     link: 'https://medeiros-five.vercel.app/',
     video:
       'https://res.cloudinary.com/dptcix8i9/video/upload/q_auto,f_auto,w_1280,h_720/v1740443514/Screenity_video_-_Feb_24_2025_3_mcblrw.mkv',
-    id: 'project4',
+    id: 'project6',
   },
 ]
 
@@ -81,7 +98,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     id: 'work2',
   },
   {
-    company: 'Freelance',
+    company: 'Vortex',
     title: 'Front-end Engineer',
     start: '2022',
     end: '2023',
